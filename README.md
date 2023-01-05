@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm siddharth jidage</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Jidage</h1>
+<p>A Software Engineer</p>
 
 
 - 🌱 I’m currently learning **java, spring, angular, AWS**
