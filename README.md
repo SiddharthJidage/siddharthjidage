@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **java, spring, angular, AWS**
+- 🌱 I’m currently learning **java, javascript, react, spring, angular, AWS**
 
 - 💬 Ask me about **java, AWS services**
 
